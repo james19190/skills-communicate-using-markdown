@@ -5,3 +5,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] Study Github Tasks
+- [ ] Study Github Tasks
